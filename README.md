@@ -60,16 +60,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Tymofii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tm-data-maker&show_icons=true&theme=radical)
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=tm-data-maker&show_icons=true&theme=transparent&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tm-data-maker&layout=compact&theme=transparent&hide_border=true)
-
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=tm-data-maker&show_icons=true&theme=tokyonight)
