@@ -54,6 +54,8 @@
 ## 📫 Connect With Me
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tymofii-m-a8a59984/)   [![GitHub](https://img.shields.io/badge/GitHub--%20%20-12100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tm-data-maker)
 
+    [![GitHub](https://img.shields.io/badge/GitHub--%20%20-12100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tm-data-maker) [![GitHub](https://img.shields.io/badge/GitHub--%20%20-12100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tm-data-maker)
+
 ---
 ⭐ *Feel free to explore my repositories and check out my project work!*
 
@@ -67,7 +69,3 @@
 
 ---
 
-### 📬 Connect With Me
-
-* **GitHub:** [your-github-username](https://github.com/your-github-username)
-* **LinkedIn:** [your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)
