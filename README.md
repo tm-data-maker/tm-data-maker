@@ -59,8 +59,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub&nbsp;&nbsp;&nbsp;&nbsp;-12100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tm-data-maker)
 
 </div>
-
----
 ⭐ *Feel free to explore my repositories and check out my project work!*
 
 ---
