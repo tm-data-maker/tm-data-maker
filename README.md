@@ -3,10 +3,10 @@
 ---
 
 ## 👨‍💻 About Me
- --🎯 **Role:** Aspiring **Data Technician & Junior Data Analyst**
-  💡 **Focus:** Turning raw data into meaningful insights, structured databases, and interactive visual reports
-  ⚙️ **Approach:** Combining a background in operational management with a practical, detail-oriented mindset
-  🛠️ **Goal:** Automating data workflows and supporting data-driven business decisions
+🎯 **Role:** Aspiring **Data Technician & Junior Data Analyst**
+💡 **Focus:** Turning raw data into meaningful insights, structured databases, and interactive visual reports
+⚙️ **Approach:** Combining a background in operational management with a practical, detail-oriented mindset
+🛠️ **Goal:** Automating data workflows and supporting data-driven business decisions
 
 ---
 
