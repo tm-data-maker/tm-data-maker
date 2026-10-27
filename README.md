@@ -52,8 +52,11 @@
 ---
 
 ## 📫 Connect With Me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tymofii-m-a8a59984/) 
-- [![GitHub](https://img.shields.io/badge/GitHub-%2312100e.svg?style=flat&logo=github&logoColor=white)](https://github.com/ВАШ_НИКНЕЙМ)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white&scale=1.5)](https://www.linkedin.com/in/tymofii-m-a8a59984/) 
+- [![GitHub](https://img.shields.io/badge/GitHub-%2312100E?style=flat-square&logo=github&logoColor=white&scale=1.5)](https://github.com/ВАШ_НИКНЕЙМ)
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tymofii-m-a8a59984/) 
+- [![GitHub](https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ВАШ_НИКНЕЙМ)
 
 ---
 ⭐ *Feel free to explore my repositories and check out my project work!*
