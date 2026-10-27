@@ -1,61 +1,34 @@
-# Hi there 👋, I'm Tymofii Moshkovskyi
+# Hi there, I'm Tymofii 👋
 
-## About Me
-I'm a Data Analyst and Business Intelligence enthusiast with experience in transforming raw data into meaningful insights and interactive dashboards. I enjoy working with data, automation, and cloud technologies to support data-driven decision-making.
-
-## 🚀 Skills & Technologies
-
-### Data Analysis & Visualization
-- Microsoft Excel
-- Tableau
-- Power BI
-
-### Databases
-- SQL
-
-### Programming
-- Python
-- Pandas
-
-### Cloud & Data Platforms
-- Microsoft Azure Data Services
-- Azure Data Factory
-- Azure SQL Database
-- Azure Synapse Analytics
-
-## 📊 What I Do
-- Data cleaning and transformation
-- Exploratory Data Analysis (EDA)
-- Dashboard development and reporting
-- SQL querying and database management
-- Data automation with Python and Pandas
-- Cloud-based data solutions with Azure
-
-## 🌱 Currently Learning
-- Advanced Data Engineering concepts
-- Azure Data Analytics solutions
-- Machine Learning with Python
-
-## 📂 Featured Projects
-- 📈 Interactive Power BI dashboards
-- 📊 Tableau business intelligence reports
-- 🐍 Python & Pandas data analysis projects
-- ☁️ Azure data integration and analytics solutions
-
-## 📫 Connect With Me
-
-- LinkedIn: [Your LinkedIn URL]
-- GitHub: https://github.com/[YourGitHubUsername]
+Aspiring **Data Technician & Junior Data Analyst** currently expanding my technical expertise through the Data Technician Skills Bootcamp and hands-on projects. I focus on transforming raw, complex data into clear, actionable insights using modern data processing, visualization, and cloud tools.
 
 ---
-⭐ Feel free to explore my repositories and connect with me!
 
-## 🛠️ Tech Stack
+### 🛠️ Technical Skills & Expertise
 
-https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white
-https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white
-https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
-https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
-https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white
+* **Spreadsheets & Data Processing:** Microsoft Excel (Advanced formulas, data cleaning, modeling, and analysis)
+* **Data Visualization & Business Intelligence:** Tableau, Power BI (Building interactive dashboards and visual reports)
+* **Database Management & Querying:** SQL (Writing efficient queries, data extraction, and manipulation)
+* **Cloud Platforms & Services:** Azure Data services
+* **Programming Languages & Libraries:** Python, pandas (Scripting, data manipulation, and automation)
+
+---
+
+### 🚀 Current Focus & Learning Journey
+
+* **Data Technician Skills Bootcamp:** Developing practical skills in data pipelines, analytics, and reporting workflows.
+* **Hands-on Projects:** Applying SQL, Excel, and Python (`pandas`) to clean, transform, and analyze datasets.
+* **Continuous Improvement:** Sharpening my technical stack to deliver robust data-driven solutions.
+
+---
+
+### 📊 GitHub Stats
+
+![Tymofii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+---
+
+### 📬 Connect With Me
+
+* **GitHub:** [your-github-username](https://github.com/your-github-username)
+* **LinkedIn:** [your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)
