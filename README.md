@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm [Tymofii Moshkovskyi]
 
 ## About Me
 I'm a Data Analyst and Business Intelligence enthusiast with experience in transforming raw data into meaningful insights and interactive dashboards. I enjoy working with data, automation, and cloud technologies to support data-driven decision-making.
