@@ -1,73 +1,61 @@
-# 🖐️ Hi there, I'm Tymofii
-
----
+# 👋 Hi there, I'm Tymofii
 
 ## 👨‍💻 About Me
-- 🎯 **Role:** Aspiring **Data Technician & Junior Data Analyst**
-- 💡 **Focus:** Turning raw data into meaningful insights, structured databases, and interactive visual reports
-- ⚙️ **Approach:** Combining a background in operational management with a practical, detail-oriented mindset
-- 🛠️ **Goal:** Automating data workflows and supporting data-driven business decisions
+
+* 🎯 **Role:** Aspiring Data Technician & Junior Data Analyst
+* 💡 **Focus:** Transforming raw data into structured databases, clean reports, and clear visual insights
+* ⚙️ **Approach:** Combining prior operational experience with a practical, detail-oriented mindset
+* 🛠️ **Goal:** Building strong, applied competencies in data analytics and reporting
 
 ---
 
 ## 🚀 Skills & Technologies
 
 ### 📊 Data Analysis & Visualization
-- 📗 **Microsoft Excel:** Advanced data modeling, lookup functions, pivot tables, and visual analysis
-- 🟡 **Power BI:** Designing dynamic dashboards and key performance indicator (KPI) reports
-- 🟦 **Tableau:** Building interactive visual analytics and business intelligence views
+* 📗 **Microsoft Excel:** Data formatting, lookup functions (VLOOKUP/XLOOKUP), and Pivot Tables
+* 🟡 **Power BI:** Building interactive dashboards and key visual reports
+* 🔷 **Tableau:** Creating visual analytics and reporting views
 
-### 🗄️ Databases & Querying
-- 🐬 **SQL:** Query optimization, data extraction, filtering, joining, and table management
+### 💾 Databases & Querying
+* 🐬 **SQL:** Data extraction (`SELECT`), filtering (`WHERE`), sorting (`ORDER BY`), and multi-table joins (`JOIN`)
 
 ### 🐍 Programming & Libraries
-- 🐍 **Python:** Scripting, data manipulation, and workflow automation
-- 🐼 **Pandas:** Advanced data cleaning, structured data transformation, and exploratory analysis
+* 🐍 **Python:** Scripting, control flow, loops, and conditional logic
+* 🐼 **Pandas:** Data cleaning, file handling (CSV/Excel), and data frame manipulation
 
-### ☁️ Cloud & Data Platforms
-- ☁️ **Microsoft Azure Data Services:** Hands-on study of Azure Synapse Analytics, Azure SQL Database, and cloud architecture
+### ☁️ Cloud Platforms
+* ☁️ **Microsoft Azure Data Services:** Practical exposure to cloud fundamentals and database management
 
 ---
 
 ## 🛠️ What I Do
-- 🧹 **Data Cleaning & ETL:** Processing, validating, and transforming messy datasets into clean analysis formats
-- 🔍 **Exploratory Data Analysis (EDA):** Uncovering trends and statistical anomalies using SQL, Excel, and Python
-- 📈 **Dashboard Development:** Creating clear visual reports for business stakeholders
-- 📂 **Data Management:** Structuring, logging, and managing data in relational databases and cloud environments
+
+* 🧹 **Data Cleaning:** Processing and preparing datasets for analytical workflows
+* 🔍 **Data Exploration:** Filtering and querying datasets using SQL, Excel, and Python
+* 📈 **Dashboard Development:** Creating clear visual reports and summaries for key metrics
+* 📁 **Data Management:** Working with relational tables and database structures
 
 ---
 
 ## 🌱 Currently Learning & Developing
-- 🎓 **Data Technician Skills Bootcamp:** Intensive training in SQL, Python, Power BI, Azure, and data privacy legislation
-- 🧩 **Advanced Pandas & SQL:** Masterclass in complex table joins, aggregation functions, and performance optimization
-- 💼 **Portfolio Building:** Developing end-to-end data projects based on real-world datasets
+
+* 🎓 **Data Technician Skills Bootcamp:** Comprehensive training in SQL, Python, Power BI, Azure, and data governance
+* 🧩 **Pandas & SQL Practice:** Applying table joins, filtering techniques, and aggregation functions
+* 💼 **Portfolio Building:** Developing practical data projects based on real-world datasets
 
 ---
 
-## 📂 Featured Projects
-- 📈 **Power BI & Tableau Dashboards:** Interactive visual management reports built to evaluate key performance indicators
-- 🐍 **Python & Pandas ETL Pipelines:** Automated scripts for cleaning, reshaping, and processing large datasets
-- 🗃️ **SQL Analytics Queries:** Complex relational queries for data extraction and multi-table business reporting
+## 📁 Featured Projects
+
+* 📊 **Power BI & Tableau Dashboards:** Visual reports built to evaluate key performance indicators
+* 🐍 **Python & Pandas Scripts:** Practical workflows for data cleaning, reshaping, and analysis
+* 💾 **SQL Analytics Queries:** Relational queries for data extraction and multi-table reporting
 
 ---
 
-## 📫 Connect With Me
+## 📬 Connect With Me
 
-<div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tymofii-m-a8a59984/)
-[![GitHub](https://img.shields.io/badge/GitHub&nbsp;&nbsp;&nbsp;&nbsp;-12100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tm-data-maker)
-
-</div>
-⭐ *Feel free to explore my repositories and check out my project work!*
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=tm-data-maker&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tm-data-maker&layout=compact&theme=tokyonight)
-
----
-
+⭐ *Feel free to explore my repositories and trace my learning progress!*
